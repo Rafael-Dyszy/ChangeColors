@@ -1,1 +1,3 @@
-file:///C:/Users/rafae/Videos/Captures/Cores%20-%20Google%20Chrome%202020-07-30%2017-58-45.mp4
+Code with pure JavaScript, HTML and CSS for input colors on body.
+
+![changeColors](https://user-images.githubusercontent.com/54251390/88980669-384f4a00-d292-11ea-9e4e-019b398d08cb.gif)
