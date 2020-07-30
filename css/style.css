@@ -1,0 +1,48 @@
+#container {
+  width: 40%;
+  height: 200px;
+  margin: 0 auto;
+  margin-top: 15%;
+  border-radius: 30px;
+  box-shadow: 1px 1px 10px rgb(5, 5, 5);
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 22%;
+}
+
+input {
+  width: 10%;
+  padding: 2px;
+}
+
+#boxColor {
+  border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+#red,
+#green,
+#blue {
+  -webkit-appearance: none;
+  width: 50%;
+  height: 4px;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+  border-radius: 10px;
+  cursor: pointer;
+}
